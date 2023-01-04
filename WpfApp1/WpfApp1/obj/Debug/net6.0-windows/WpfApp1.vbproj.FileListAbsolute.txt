@@ -1,0 +1,5 @@
+C:\Users\dwmoo003\Desktop\SY22-23\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.vbproj.AssemblyReference.cache
+C:\Users\dwmoo003\Desktop\SY22-23\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\dwmoo003\Desktop\SY22-23\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\dwmoo003\Desktop\SY22-23\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\dwmoo003\Desktop\SY22-23\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
